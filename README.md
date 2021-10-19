@@ -1,0 +1,2 @@
+# Testing-the-cube-rule
+It has been suggested that in countries with a winner-takes-all republican system one can estimate the analogy of seats in a legislative body by simply raising the analogy of the the votes to the third. We test this hypothesis by running a Kolmogorov-Smirnov test to the state election data of the US from 1972 to 2012 from Kaggle "https://www.kaggle.com/tunguz/us-elections-dataset".
